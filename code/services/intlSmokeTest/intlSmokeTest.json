@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,intl",
+    "logging_enabled": "false",
+    "name": "intlSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "intlSmokeTest.js"
+}
